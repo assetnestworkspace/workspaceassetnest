@@ -1,5 +1,5 @@
 {
-  "name": "AssetNest Inventory",
+  "name": "AssetNest Projects",
   "children": [
     {
       "name": "Miyapur",
@@ -7,22 +7,766 @@
         {
           "name": "Candeur 40",
           "children": [
-            {"name": "Budget: ₹1.10 Cr"},
-            {"name": "Configs: 2, 2.5 & 3 BHK"},
-            {"name": "Size: 1149 - 1611 Sq.Ft."},
-            {"name": "Land Parcel: 4.8 Acres"},
-            {"name": "Floors: 3B+G + 40 Floors"},
-            {"name": "Possession: READY TO MOVE"},
-            {"name": "Units: ~959"}
+            {
+              "name": "Budget: \u20b91.10 Cr"
+            },
+            {
+              "name": "Configs: 2, 2.5 & 3 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1149 \u2013 1611"
+            },
+            {
+              "name": "Land Parcel: 4.8 Acres"
+            },
+            {
+              "name": "Towers: 3"
+            },
+            {
+              "name": "Floors: 3B+G + 40 Floors"
+            },
+            {
+              "name": "Possession: READY TO MOVE"
+            },
+            {
+              "name": "Units: ~959"
+            }
+          ]
+        },
+        {
+          "name": "Candeur Twins",
+          "children": [
+            {
+              "name": "Budget: \u20b91.21 Cr"
+            },
+            {
+              "name": "Configs: Premium 3 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1591"
+            },
+            {
+              "name": "Land Parcel: 3.5 Acres"
+            },
+            {
+              "name": "Towers: 2"
+            },
+            {
+              "name": "Floors: 4B + 47 Floors"
+            },
+            {
+              "name": "Possession: Sept 2028"
+            },
+            {
+              "name": "Units: ~742"
+            },
+            {
+              "name": "Club House: G+5 | 40K sft"
+            }
           ]
         },
         {
           "name": "Urbanrise Sky Habitat",
           "children": [
-            {"name": "Budget: ₹1.31 Cr BoxPrice"},
-            {"name": "Configs: 3 & 4 BHK"},
-            {"name": "Size: 1509 - 2339 Sq.Ft."},
-            {"name": "Possession: Dec 2026 - May 2028"}
+            {
+              "name": "Budget: \u20b91.31 Cr BoxPrice"
+            },
+            {
+              "name": "Configs: 3 & 4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1509 - 2339"
+            },
+            {
+              "name": "Land Parcel: 10.67"
+            },
+            {
+              "name": "Towers: 5"
+            },
+            {
+              "name": "Floors: 2B + 3P + 42 Floors"
+            },
+            {
+              "name": "Possession: Dec 2026 \u2013 May 2028"
+            },
+            {
+              "name": "Units: ~2400"
+            },
+            {
+              "name": "Club House: 1Lsft + 70K sft  rooftop aminities"
+            }
+          ]
+        },
+        {
+          "name": "Team4 Aria",
+          "children": [
+            {
+              "name": "Budget: 1.3 Cr"
+            },
+            {
+              "name": "Configs: 3 & 4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1655 - 2650"
+            },
+            {
+              "name": "Land Parcel: 12 Acres"
+            },
+            {
+              "name": "Towers: 7"
+            }
+          ]
+        },
+        {
+          "name": "Team4 Nyla",
+          "children": [
+            {
+              "name": "Budget: \u20b91.25 Cr"
+            },
+            {
+              "name": "Configs: 2, 2.5 & 3 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1200 \u2013 1880"
+            },
+            {
+              "name": "Land Parcel: 6.02 Acres"
+            },
+            {
+              "name": "Towers: 3"
+            },
+            {
+              "name": "Floors: 3B+ G + 35 Floors"
+            },
+            {
+              "name": "Possession: Dec 2027"
+            },
+            {
+              "name": "Units: ~"
+            },
+            {
+              "name": "Club House: G+5 | 45K sft"
+            }
+          ]
+        },
+        {
+          "name": "INDIS Sia Prospera",
+          "children": [
+            {
+              "name": "Budget: \u20b9 2 Cr"
+            },
+            {
+              "name": "Configs: 3 & 4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 2388 \u2013 3434"
+            },
+            {
+              "name": "Land Parcel: 3.5 Acres"
+            },
+            {
+              "name": "Towers: 2"
+            },
+            {
+              "name": "Floors: 2B + Stilt +17 Floors"
+            },
+            {
+              "name": "Possession: June 2028"
+            },
+            {
+              "name": "Units: ~340 (4+1 p+s lifts)"
+            },
+            {
+              "name": "Club House: G+5 | 36K sft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachupally",
+      "children": [
+        {
+          "name": "Urbanrise On Cloud 33",
+          "children": [
+            {
+              "name": "Budget: 90Cr--"
+            },
+            {
+              "name": "Configs: 2, 3 & 4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 994--2021"
+            },
+            {
+              "name": "Land Parcel: 9.15 Acres"
+            },
+            {
+              "name": "Towers: 5"
+            },
+            {
+              "name": "Floors: 3B + G + 33 Floors"
+            },
+            {
+              "name": "Possession: READY TO MOVE"
+            },
+            {
+              "name": "Club House: 85K+ sft"
+            }
+          ]
+        },
+        {
+          "name": "Casagrand Mandarin",
+          "children": [
+            {
+              "name": "Budget: \u20b91.55 Cr"
+            },
+            {
+              "name": "Configs: 3 & 4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 2016 - 3159"
+            },
+            {
+              "name": "Land Parcel: 7.96 Acres"
+            },
+            {
+              "name": "Towers: 6"
+            },
+            {
+              "name": "Floors: 2B+G + 7 Floors"
+            },
+            {
+              "name": "Possession: Jun 2030"
+            },
+            {
+              "name": "Units: ~334 | 209 sold | 125 left"
+            },
+            {
+              "name": "Club House: 41Ksft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kukatpally",
+      "children": [
+        {
+          "name": "Godrej Brooklyn Avenue",
+          "children": [
+            {
+              "name": "Budget: \u20b9 2 Cr"
+            },
+            {
+              "name": "Configs: 3 & 4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1579 - 3257"
+            },
+            {
+              "name": "Land Parcel: 7.76 Acres"
+            },
+            {
+              "name": "Towers: 2"
+            },
+            {
+              "name": "Floors: 4B+G+45 Floors"
+            },
+            {
+              "name": "Possession: December 2030"
+            },
+            {
+              "name": "Units: ~1428"
+            },
+            {
+              "name": "Club House: G+7 | 75Ksft"
+            }
+          ]
+        },
+        {
+          "name": "ASBL Landmark",
+          "children": [
+            {
+              "name": "Budget: 2.10 Cr"
+            },
+            {
+              "name": "Configs: 3 & 3.5 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1645 - 2560"
+            },
+            {
+              "name": "Land Parcel: 6.6 Acres"
+            },
+            {
+              "name": "Towers: 4"
+            },
+            {
+              "name": "Floors: 3B + G + 19 | & D tower G+20 Floors"
+            },
+            {
+              "name": "Possession: Mar 2028"
+            },
+            {
+              "name": "Units: ~676"
+            },
+            {
+              "name": "Club House: G+4 | 43K sft"
+            }
+          ]
+        },
+        {
+          "name": "Incor One City",
+          "children": [
+            {
+              "name": "Budget: \u20b9 1.39 Cr"
+            },
+            {
+              "name": "Configs: 2 & 3 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1208 - 1931"
+            },
+            {
+              "name": "Land Parcel: 11.5 Acres"
+            },
+            {
+              "name": "Towers: 5"
+            },
+            {
+              "name": "Floors: 2B + G + 27/33"
+            },
+            {
+              "name": "Possession: READY TO MOVE"
+            },
+            {
+              "name": "Units: ~1361"
+            },
+            {
+              "name": "Club House: 42K sft"
+            }
+          ]
+        },
+        {
+          "name": "Vasavi Sarovar",
+          "children": [
+            {
+              "name": "Budget: \u20b91.15 Cr"
+            },
+            {
+              "name": "Configs: 2, 2.5 , 3, 4 BHK + sky villas"
+            },
+            {
+              "name": "Size (Sq.Ft): 1255 \u2013 4970"
+            },
+            {
+              "name": "Land Parcel: 21.5 Acres"
+            },
+            {
+              "name": "Towers: 11"
+            },
+            {
+              "name": "Floors: 4B + G + 29 Floors"
+            },
+            {
+              "name": "Possession: Mid 2027"
+            },
+            {
+              "name": "Units: ~2530"
+            },
+            {
+              "name": "Club House: G+4 (clubhouses * 3) | 96K+ sft"
+            }
+          ]
+        },
+        {
+          "name": "ASBL Landmark",
+          "children": [
+            {
+              "name": "Budget: 2.10 Cr"
+            },
+            {
+              "name": "Configs: 3 & 3.5 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1645 - 2560"
+            },
+            {
+              "name": "Land Parcel: 6.6 Acres"
+            },
+            {
+              "name": "Towers: 4"
+            },
+            {
+              "name": "Floors: 3B + G + 19 | & D tower G+20 Floors"
+            },
+            {
+              "name": "Possession: Mar 2028"
+            },
+            {
+              "name": "Units: ~676"
+            },
+            {
+              "name": "Club House: G+4 | 43K sft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Htec City",
+      "children": [
+        {
+          "name": "The Kohinoor by Auro Realty",
+          "children": [
+            {
+              "name": "Budget: 1.6 Cr"
+            },
+            {
+              "name": "Configs: 3 & 4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1888 - 3113"
+            },
+            {
+              "name": "Land Parcel: 12.6 Acres"
+            },
+            {
+              "name": "Towers: 7"
+            },
+            {
+              "name": "Floors: 3B + G + 41"
+            },
+            {
+              "name": "Possession: READY TO MOVE"
+            },
+            {
+              "name": "Club House: G+4 | 50K sft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hitec City",
+      "children": [
+        {
+          "name": "Raghava Iris",
+          "children": [
+            {
+              "name": "Budget: \u20b96.5 Cr \u2013 \u20b98.5 Cr"
+            },
+            {
+              "name": "Configs: 4 & 6 BHK Luxury"
+            },
+            {
+              "name": "Size (Sq.Ft): 5425 - 6605"
+            },
+            {
+              "name": "Land Parcel: 7 Acres"
+            },
+            {
+              "name": "Towers: 3"
+            },
+            {
+              "name": "Floors: 4B+45 Floors"
+            },
+            {
+              "name": "Possession: Sept 2028"
+            },
+            {
+              "name": "Units: ~520"
+            },
+            {
+              "name": "Club House: G+4 | 52K sft ( sky island | 1L sft)"
+            }
+          ]
+        },
+        {
+          "name": "Candeur New Project",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Hitech City",
+      "children": [
+        {
+          "name": "Adithya Fourtune Heights",
+          "children": [
+            {
+              "name": "Configs: 3BHK"
+            }
+          ]
+        },
+        {
+          "name": "Cyber City Project",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kondapur",
+      "children": [
+        {
+          "name": "Candeur Lakescape",
+          "children": [
+            {
+              "name": "Budget: \u20b91.21 Cr"
+            },
+            {
+              "name": "Configs: 2, 2.5, 3 & 3.5 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1340\u2013 2390"
+            },
+            {
+              "name": "Land Parcel: 9.11 Acres"
+            },
+            {
+              "name": "Towers: 7"
+            },
+            {
+              "name": "Floors: 4B + G + 47 Floors"
+            },
+            {
+              "name": "Possession: Dec 2027"
+            },
+            {
+              "name": "Club House: G+11 | 1L sft"
+            }
+          ]
+        },
+        {
+          "name": "the regant by auroreality",
+          "children": [
+            {
+              "name": "Budget: 2cr--"
+            },
+            {
+              "name": "Configs: 3 & 4  bhk"
+            },
+            {
+              "name": "Size (Sq.Ft): 1500--2800"
+            },
+            {
+              "name": "Possession: ready to movie"
+            }
+          ]
+        },
+        {
+          "name": "sapphire  by auroreality",
+          "children": [
+            {
+              "name": "Budget: 3CR"
+            },
+            {
+              "name": "Configs: 3&4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 2200--3500"
+            },
+            {
+              "name": "Possession: Dec 2031"
+            }
+          ]
+        },
+        {
+          "name": "Candeur Lakescape",
+          "children": [
+            {
+              "name": "Budget: 1.5CR"
+            },
+            {
+              "name": "Configs: 2,3&4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1400--3000"
+            },
+            {
+              "name": "Possession: Dec 2026"
+            }
+          ]
+        },
+        {
+          "name": "Candeur skyline",
+          "children": [
+            {
+              "name": "Budget: ~8.5 Cr -"
+            },
+            {
+              "name": "Configs: sky villas"
+            },
+            {
+              "name": "Size (Sq.Ft): 6520 -- 11999"
+            },
+            {
+              "name": "Towers: 4"
+            },
+            {
+              "name": "Floors: G + 58/59"
+            },
+            {
+              "name": "Possession: 2029  onwards"
+            },
+            {
+              "name": "Units: 282"
+            },
+            {
+              "name": "Club House: 600000 sft"
+            }
+          ]
+        },
+        {
+          "name": "Hallmark Altus",
+          "children": [
+            {
+              "name": "Configs: 3, 3.5, 4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1760--4685"
+            },
+            {
+              "name": "Land Parcel: ~3.5"
+            },
+            {
+              "name": "Towers: 2"
+            },
+            {
+              "name": "Floors: 4B+2S+44--50"
+            },
+            {
+              "name": "Possession: June 2029"
+            },
+            {
+              "name": "Units: 490"
+            },
+            {
+              "name": "Club House: 58000 sft"
+            }
+          ]
+        },
+        {
+          "name": "Hallmark Vesta",
+          "children": [
+            {
+              "name": "Budget: 68 L - 1.35 Cr  // 4500 -- 5770 per sft"
+            },
+            {
+              "name": "Configs: 2 , 3 bhk"
+            },
+            {
+              "name": "Size (Sq.Ft): 1266 -- 1706"
+            },
+            {
+              "name": "Land Parcel: 3 acres"
+            },
+            {
+              "name": "Towers: 1"
+            },
+            {
+              "name": "Floors: G+5"
+            },
+            {
+              "name": "Possession: READY TO MOVE"
+            },
+            {
+              "name": "Units: 222"
+            }
+          ]
+        },
+        {
+          "name": "W by DSR",
+          "children": []
+        },
+        {
+          "name": "Indis viva city",
+          "children": []
+        },
+        {
+          "name": "GHR Titania",
+          "children": []
+        },
+        {
+          "name": "Sumadhura Horizon",
+          "children": []
+        },
+        {
+          "name": "Lansum Eden Gardens",
+          "children": []
+        },
+        {
+          "name": "Soltiare unity Technopolis",
+          "children": []
+        },
+        {
+          "name": "Raghava Halo",
+          "children": [
+            {
+              "name": "Budget: 1.48CR--1.85CR"
+            },
+            {
+              "name": "Configs: 3BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1830--2455"
+            },
+            {
+              "name": "Land Parcel: 5.14 acres"
+            },
+            {
+              "name": "Towers: 3"
+            },
+            {
+              "name": "Floors: 52 floors"
+            },
+            {
+              "name": "Possession: July 2031"
+            },
+            {
+              "name": "Units: 1025"
+            },
+            {
+              "name": "Club House: G+6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gachibowli",
+      "children": [
+        {
+          "name": "Jayabheri The Nirvana",
+          "children": [
+            {
+              "name": "Budget: \u20b91.69 Cr"
+            },
+            {
+              "name": "Configs: 3 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1885 \u2013 2225"
+            },
+            {
+              "name": "Land Parcel: 7 Acres"
+            },
+            {
+              "name": "Towers: 5"
+            },
+            {
+              "name": "Floors: 3B+29 Floors"
+            },
+            {
+              "name": "Possession: Oct 2025 \u2013 2026"
+            },
+            {
+              "name": "Units: ~693"
+            },
+            {
+              "name": "Club House: 49K sft"
+            }
           ]
         }
       ]
@@ -33,19 +777,190 @@
         {
           "name": "ASBL Spectra",
           "children": [
-            {"name": "Budget: 2.1 Cr"},
-            {"name": "Configs: 3 BHK"},
-            {"name": "Floors: 4B + G +39"},
-            {"name": "Possession: Mid 2027"},
-            {"name": "Club House: 75K sft"}
+            {
+              "name": "Budget: 2.1 Cr"
+            },
+            {
+              "name": "Configs: 3 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1980 - 2220"
+            },
+            {
+              "name": "Land Parcel: 7.85 Acres"
+            },
+            {
+              "name": "Towers: 4"
+            },
+            {
+              "name": "Floors: 4B + G +39"
+            },
+            {
+              "name": "Possession: Mid 2027"
+            },
+            {
+              "name": "Units: ~"
+            },
+            {
+              "name": "Club House: 75K sft"
+            }
+          ]
+        },
+        {
+          "name": "ASBL Broadway",
+          "children": [
+            {
+              "name": "Budget: 2.10 Cr"
+            },
+            {
+              "name": "Configs: 3 & 3.5 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 2035 - 2650"
+            },
+            {
+              "name": "Land Parcel: 5.02 Acres"
+            },
+            {
+              "name": "Towers: 3"
+            },
+            {
+              "name": "Floors: 4B+G+50 Floors"
+            },
+            {
+              "name": "Possession: December 2029"
+            },
+            {
+              "name": "Units: ~885"
+            },
+            {
+              "name": "Club House: 1L sft"
+            }
+          ]
+        },
+        {
+          "name": "ASBL Loft",
+          "children": [
+            {
+              "name": "Budget: 2 Cr"
+            },
+            {
+              "name": "Configs: 3 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1695 - 1870"
+            },
+            {
+              "name": "Land Parcel: 4.92 Acres"
+            },
+            {
+              "name": "Towers: 2"
+            },
+            {
+              "name": "Floors: 4B + G +  45 Floors"
+            },
+            {
+              "name": "Possession: December 2026"
+            },
+            {
+              "name": "Units: ~894"
+            },
+            {
+              "name": "Club House: 55K sft"
+            }
+          ]
+        },
+        {
+          "name": "Sumadhura Olympus",
+          "children": [
+            {
+              "name": "Budget: \u20b91.89"
+            },
+            {
+              "name": "Configs: 3 & 3.5 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1670 \u2013 3000"
+            },
+            {
+              "name": "Land Parcel: 5.06 Acres"
+            },
+            {
+              "name": "Towers: 3"
+            },
+            {
+              "name": "Floors: 3B+44 Floors"
+            },
+            {
+              "name": "Possession: Ready to move"
+            },
+            {
+              "name": "Units: ~854"
+            },
+            {
+              "name": "Club House: 50K sft"
+            }
           ]
         },
         {
           "name": "DSR The Twins",
           "children": [
-            {"name": "Budget: 22 Cr"},
-            {"name": "Configs: 5 & 6 BHK | sky mansions"},
-            {"name": "Possession: May 2028"}
+            {
+              "name": "Budget: 22 Cr"
+            },
+            {
+              "name": "Configs: 5 & 6 BHK | sky mansions"
+            },
+            {
+              "name": "Size (Sq.Ft): 15999 sft"
+            },
+            {
+              "name": "Land Parcel: 3.0 Acres"
+            },
+            {
+              "name": "Towers: 2"
+            },
+            {
+              "name": "Floors: 4B+44 Floors"
+            },
+            {
+              "name": "Possession: May 2028"
+            },
+            {
+              "name": "Units: ~85"
+            },
+            {
+              "name": "Club House: 50K sft"
+            }
+          ]
+        },
+        {
+          "name": "Western Springs",
+          "children": [
+            {
+              "name": "Budget: \u20b92.07 Cr"
+            },
+            {
+              "name": "Configs: 3 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 2185 \u2013 3490"
+            },
+            {
+              "name": "Land Parcel: 13.10 Acres"
+            },
+            {
+              "name": "Towers: 7"
+            },
+            {
+              "name": "Floors: 3B+36 Floors"
+            },
+            {
+              "name": "Possession: Dec 2027"
+            },
+            {
+              "name": "Units: ~1491"
+            }
           ]
         }
       ]
@@ -54,11 +969,741 @@
       "name": "Kokapet",
       "children": [
         {
+          "name": "SAS Crown",
+          "children": []
+        },
+        {
           "name": "The Trilight",
           "children": [
-            {"name": "Budget: ₹3.24 cr"},
-            {"name": "Configs: 3, 4 & 5 BHK"},
-            {"name": "Floors: 4B+ 46 , 49 , 56 Floors"}
+            {
+              "name": "Budget: \u20b93.24 cr"
+            },
+            {
+              "name": "Configs: 3, 4 & 5 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 2888 - 11333"
+            },
+            {
+              "name": "Land Parcel: 4.2 Acres"
+            },
+            {
+              "name": "Towers: 3"
+            },
+            {
+              "name": "Floors: 4B+ 46 , 49 , 56 Floors"
+            },
+            {
+              "name": "Possession: Dec 2027"
+            },
+            {
+              "name": "Units: ~462"
+            },
+            {
+              "name": "Club House: 1L sft"
+            }
+          ]
+        },
+        {
+          "name": "Rajapushpa Pristinia",
+          "children": [
+            {
+              "name": "Budget: 1.14 Cr"
+            },
+            {
+              "name": "Configs: 3 & 4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 2040 - 4595"
+            },
+            {
+              "name": "Land Parcel: 12.1 Acres"
+            },
+            {
+              "name": "Towers: 6"
+            },
+            {
+              "name": "Floors: 42 Floors for BC&D | 38 Floors for A&F"
+            },
+            {
+              "name": "Possession: Feb 2028"
+            },
+            {
+              "name": "Units: ~1782"
+            },
+            {
+              "name": "Club House: 60K sft + stilt 70K sft"
+            }
+          ]
+        },
+        {
+          "name": "Lansum Elena",
+          "children": [
+            {
+              "name": "Budget: \u20b92.9 Cr"
+            },
+            {
+              "name": "Configs: 3 & 4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 2640 - 3775"
+            },
+            {
+              "name": "Land Parcel: 3.61 Acres"
+            },
+            {
+              "name": "Towers: 2"
+            },
+            {
+              "name": "Floors: 4B + G + 55 Floors"
+            },
+            {
+              "name": "Possession: Dec 2028"
+            },
+            {
+              "name": "Units: ~540"
+            },
+            {
+              "name": "Club House: 50Ksft"
+            }
+          ]
+        },
+        {
+          "name": "Lansum Ecanto",
+          "children": [
+            {
+              "name": "Budget: 3.6 Cr"
+            },
+            {
+              "name": "Configs: 3 & 4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 4055 - 5045"
+            },
+            {
+              "name": "Land Parcel: 5.7 Acres"
+            },
+            {
+              "name": "Towers: 3"
+            },
+            {
+              "name": "Floors: 4B + G + 60"
+            },
+            {
+              "name": "Possession: 2029 December"
+            },
+            {
+              "name": "Units: ~689"
+            },
+            {
+              "name": "Club House: G +7 | 1L sft"
+            }
+          ]
+        },
+        {
+          "name": "Rajapushpa Atria",
+          "children": []
+        },
+        {
+          "name": "Rajapushpa Regalia",
+          "children": []
+        },
+        {
+          "name": "Cybercity Westbrook",
+          "children": []
+        },
+        {
+          "name": "Poulomi Palazzo",
+          "children": []
+        },
+        {
+          "name": "Poulomi Avante",
+          "children": []
+        },
+        {
+          "name": "Poulomi 90",
+          "children": []
+        },
+        {
+          "name": "Sri Fortune Sonthalia Sky Villas",
+          "children": []
+        },
+        {
+          "name": "Forntline Seven",
+          "children": []
+        },
+        {
+          "name": "Hirize Rich Park",
+          "children": []
+        },
+        {
+          "name": "Greenspace Celestial",
+          "children": []
+        },
+        {
+          "name": "Rajapushpa Open Skies",
+          "children": []
+        },
+        {
+          "name": "Alekhya Rise",
+          "children": []
+        },
+        {
+          "name": "Poulomi Aristors",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Neopolis",
+      "children": [
+        {
+          "name": "Rajapushpa Skyra",
+          "children": [
+            {
+              "name": "Budget: \u20b93.90 Cr \u2013 \u20b96.50 Cr"
+            },
+            {
+              "name": "Configs: 3 & 4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 2800 \u2013 4500"
+            },
+            {
+              "name": "Land Parcel: 6.5 Acres"
+            },
+            {
+              "name": "Towers: 3"
+            },
+            {
+              "name": "Floors: 2B+56+ Floors"
+            },
+            {
+              "name": "Possession: April 2030"
+            },
+            {
+              "name": "Units: ~777"
+            },
+            {
+              "name": "Club House: G+6 |1.15L sft"
+            }
+          ]
+        },
+        {
+          "name": "Prestige Clairemont",
+          "children": [
+            {
+              "name": "Budget: \u20b92.26"
+            },
+            {
+              "name": "Configs: 3 & 4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1399 - 4902"
+            },
+            {
+              "name": "Land Parcel: 7.5 Acres"
+            },
+            {
+              "name": "Towers: 4"
+            },
+            {
+              "name": "Floors: 2B + 4P + 33\\38 Floors"
+            },
+            {
+              "name": "Possession: Nov 2027"
+            },
+            {
+              "name": "Units: ~928"
+            }
+          ]
+        },
+        {
+          "name": "Brigade Gateway",
+          "children": []
+        },
+        {
+          "name": "Brigade Barcelona (plot 20)",
+          "children": []
+        },
+        {
+          "name": "One by MSN",
+          "children": []
+        },
+        {
+          "name": "The Cascades",
+          "children": []
+        },
+        {
+          "name": "Rajapushpa Casa Luxura",
+          "children": []
+        },
+        {
+          "name": "Rajapushpa Skyra",
+          "children": []
+        },
+        {
+          "name": "Sattva LakeRidge",
+          "children": []
+        },
+        {
+          "name": "Sattva Lago",
+          "children": []
+        },
+        {
+          "name": "APR Olympia",
+          "children": []
+        },
+        {
+          "name": "Prestige Clairemont",
+          "children": []
+        },
+        {
+          "name": "The Trilight",
+          "children": []
+        },
+        {
+          "name": "NEO by Yula",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Puppalguda",
+      "children": [
+        {
+          "name": "Meenakshi Elan",
+          "children": [
+            {
+              "name": "Configs: 3 & 4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 7300--9300"
+            },
+            {
+              "name": "Land Parcel: 4.75 Acres"
+            },
+            {
+              "name": "Towers: 3T & 6 wings"
+            },
+            {
+              "name": "Floors: 45floors"
+            },
+            {
+              "name": "Possession: May 2028"
+            },
+            {
+              "name": "Units: 270"
+            },
+            {
+              "name": "Club House: 1L sft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Narsingi",
+      "children": [
+        {
+          "name": "NCC The Line",
+          "children": [
+            {
+              "name": "Budget: 1.02--1.43cr"
+            }
+          ]
+        },
+        {
+          "name": "Lansum El-Dorado",
+          "children": [
+            {
+              "name": "Budget: 2.20 Cr -- 2.57Cr"
+            },
+            {
+              "name": "Configs: 3 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1860 - 2250"
+            },
+            {
+              "name": "Land Parcel: 4.25 acres"
+            },
+            {
+              "name": "Towers: 2"
+            },
+            {
+              "name": "Floors: 4B + G + stilt + 40"
+            },
+            {
+              "name": "Possession: READY TO MOVE"
+            },
+            {
+              "name": "Units: ~872"
+            },
+            {
+              "name": "Club House: G+6 | 50K sft"
+            }
+          ]
+        },
+        {
+          "name": "Rajapushpa Provincia",
+          "children": [
+            {
+              "name": "Budget: \u20b91.42 Cr -- 2.85Cr"
+            },
+            {
+              "name": "Configs: 2&3 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1370 \u2013 2660"
+            },
+            {
+              "name": "Land Parcel: 24 Acres"
+            },
+            {
+              "name": "Towers: 11"
+            },
+            {
+              "name": "Floors: 4B+ G+39 Floors"
+            },
+            {
+              "name": "Possession: Phase II | Jan 2027"
+            },
+            {
+              "name": "Units: 3498"
+            },
+            {
+              "name": "Club House: 1.50L sft 2CH"
+            }
+          ]
+        },
+        {
+          "name": "IRA Moon glade",
+          "children": [
+            {
+              "name": "Budget: 1.26cr --3.55cr"
+            },
+            {
+              "name": "Configs: 3 ,4 bhk"
+            },
+            {
+              "name": "Size (Sq.Ft): 1400--3950"
+            },
+            {
+              "name": "Land Parcel: ~14 acres"
+            },
+            {
+              "name": "Towers: 7"
+            },
+            {
+              "name": "Floors: 2B+1S+4P+40F"
+            },
+            {
+              "name": "Possession: Dec 2029"
+            },
+            {
+              "name": "Units: 2400--2471"
+            },
+            {
+              "name": "Club House: G+8/1.35L sft"
+            }
+          ]
+        },
+        {
+          "name": "Lansum EL Palacio",
+          "children": [
+            {
+              "name": "Budget: 1.37cr--2.06cr"
+            },
+            {
+              "name": "Configs: 3Bhk"
+            },
+            {
+              "name": "Size (Sq.Ft): 1715--2320"
+            },
+            {
+              "name": "Land Parcel: ~3 acres"
+            },
+            {
+              "name": "Towers: 2"
+            },
+            {
+              "name": "Floors: G+36"
+            },
+            {
+              "name": "Possession: Jan 2030"
+            },
+            {
+              "name": "Units: 504"
+            },
+            {
+              "name": "Club House: G+6/30,000 sft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tellapur",
+      "children": [
+        {
+          "name": "Prestige Golden Grove",
+          "children": [
+            {
+              "name": "Budget: 90L--3cr"
+            },
+            {
+              "name": "Configs: 2,3& 4BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1169--3013"
+            },
+            {
+              "name": "Land Parcel: 28.6 Acres"
+            },
+            {
+              "name": "Towers: 10"
+            },
+            {
+              "name": "Floors: 2B+3P+52 floors"
+            },
+            {
+              "name": "Possession: March 2031"
+            }
+          ]
+        },
+        {
+          "name": "Rajapushpa Imperia",
+          "children": [
+            {
+              "name": "Budget: \u20b91.25 Cr \u2013 \u20b92.65 Cr"
+            },
+            {
+              "name": "Configs: 2, 3 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1350 \u2013 2880"
+            },
+            {
+              "name": "Land Parcel: 24.0 Acres"
+            },
+            {
+              "name": "Towers: 8"
+            },
+            {
+              "name": "Floors: 4G+1S+40 Floors"
+            },
+            {
+              "name": "Possession: sept 2027"
+            },
+            {
+              "name": "Units: 3008"
+            },
+            {
+              "name": "Club House: G+4  /1.2L sft"
+            }
+          ]
+        },
+        {
+          "name": "Vaishno skyvue",
+          "children": [
+            {
+              "name": "Budget: 1.55 CR STARTING PRICE"
+            },
+            {
+              "name": "Configs: 3BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 2010--2890"
+            },
+            {
+              "name": "Land Parcel: 3.7acers"
+            },
+            {
+              "name": "Towers: 2"
+            },
+            {
+              "name": "Floors: 36 floors"
+            },
+            {
+              "name": "Possession: Jan 2031"
+            },
+            {
+              "name": "Units: 570"
+            },
+            {
+              "name": "Club House: G+5 Club house"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kollur",
+      "children": [
+        {
+          "name": "Anvita High9",
+          "children": [
+            {
+              "name": "Budget: \u20b985 L \u2013 \u20b91.65 Cr"
+            },
+            {
+              "name": "Configs: 2, 3 BHK  & 4BHK SKY VILLAS"
+            },
+            {
+              "name": "Size (Sq.Ft): 1355--2870"
+            },
+            {
+              "name": "Land Parcel: 15 Acres"
+            },
+            {
+              "name": "Towers: 9"
+            },
+            {
+              "name": "Floors: 3B+G+30 Floors"
+            },
+            {
+              "name": "Possession: Nov 2028"
+            },
+            {
+              "name": "Units: 2200--2400"
+            },
+            {
+              "name": "Club House: 1L sft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rajendranagar",
+      "children": [
+        {
+          "name": "The Prestige City (Budvel)",
+          "children": [
+            {
+              "name": "Budget: \u20b91.45 \u2013 \u20b93.20 Cr"
+            },
+            {
+              "name": "Configs: 2, 2.5,3 ,3.5 & 4 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1179--3381"
+            },
+            {
+              "name": "Land Parcel: 64.0 Acres"
+            },
+            {
+              "name": "Towers: 13"
+            },
+            {
+              "name": "Floors: 4B+41 Floors"
+            },
+            {
+              "name": "Possession: Dec 2027"
+            },
+            {
+              "name": "Units: 4647"
+            },
+            {
+              "name": "Club House: G+4/ 1L sqft for 2 CH"
+            }
+          ]
+        },
+        {
+          "name": "Ramky Eminent",
+          "children": [
+            {
+              "name": "Budget: 1.8cr --3.7cr"
+            },
+            {
+              "name": "Configs: 3, 3.5, 4, 4.5 BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 2290--4100"
+            },
+            {
+              "name": "Land Parcel: 7.82"
+            },
+            {
+              "name": "Towers: 4"
+            },
+            {
+              "name": "Floors: 3B+G+29/30 floors"
+            },
+            {
+              "name": "Possession: Dec 2029"
+            },
+            {
+              "name": "Units: 724"
+            },
+            {
+              "name": "Club House: G+5 / 50,000"
+            }
+          ]
+        },
+        {
+          "name": "Sumadhura Gardens By The Brook",
+          "children": [
+            {
+              "name": "Budget: \u20b91.05 Cr \u2013 \u20b91.75 Cr"
+            },
+            {
+              "name": "Configs: 2, 2.5 & 3 ,4.5BHK"
+            },
+            {
+              "name": "Size (Sq.Ft): 1285 \u2013 2100"
+            },
+            {
+              "name": "Land Parcel: 9.625 acres"
+            },
+            {
+              "name": "Towers: 4"
+            },
+            {
+              "name": "Floors: 3B+36 Floors"
+            },
+            {
+              "name": "Possession: 2027 \u2013 2028"
+            },
+            {
+              "name": "Units: 908"
+            },
+            {
+              "name": "Club House: G+5 / 50000,25000"
+            }
+          ]
+        },
+        {
+          "name": "godrej regal pavilion",
+          "children": [
+            {
+              "name": "Budget: 1.10--3.16 cr"
+            },
+            {
+              "name": "Configs: 2, 3, 3.5, 4 Bhk"
+            },
+            {
+              "name": "Size (Sq.Ft): 1308--3572"
+            },
+            {
+              "name": "Land Parcel: 12.5"
+            },
+            {
+              "name": "Towers: 9"
+            },
+            {
+              "name": "Floors: 4B+G+33 to 35"
+            },
+            {
+              "name": "Possession: Dec 2029"
+            },
+            {
+              "name": "Units: 1926"
+            },
+            {
+              "name": "Club House: G+5/ 70,000 sft"
+            }
           ]
         }
       ]
